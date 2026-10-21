@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "initialized": true,
+  "messages": {
+    "665": {
+      "fingerprint": "fde873889335284138fd9c7310425d9ebd73f4a170bdfe4df600865396e6d01d",
+      "sent_to": [
+        "5044403587",
+        "-1004297005952"
+      ]
+    }
+  },
+  "last_run_epoch": 1792610543
+}
